@@ -1,2 +1,2 @@
-# this-text-as-pattern
+# This text as pattern
 Simple app based on geopattern JavaScript library.
